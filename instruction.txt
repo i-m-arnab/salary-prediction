@@ -1,5 +1,6 @@
 Hii all.
-   i have created the repository.And 4 branches and a master branch.
+   i have created the repository.
+   create your own branch before push.
 
 
 1:-first go to your branch by "git checkout <branchname>" command and  push the changes to repository.
