@@ -1,0 +1,9 @@
+Hii all.
+   i have created the repository.And 4 branches and a master branch.
+
+
+1:-first go to your branch by "git checkout <branchname>" command and  push the changes to repository.
+2:-Always stay in your branch and keep changes to your branch.
+3:-One of us have to keep tracking the master branch.
+4:-All of you have to give a pull request to master.
+
